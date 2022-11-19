@@ -1,0 +1,21 @@
+{
+  "name": "ggg999333",
+  "main": "./lib/ggg",
+  "version": "0.0.0",
+  "description": "ดูบอลสด ดูบอล แจ๋วว  ดูบอลสดวันนี้ ดูบอลสด99 ดูบอลสด66 ดูบอลสด7m dooball66 dooballsod dooball2you dooball4k dooball88 dooballfree dooballhd dooballvip dooball99 ดูบอลสดdb ดูบอลสดไม่กระตุก ดูบอลสดไทยลีก ดูบอลสด88  ดูบอลสด99 ดูบอล666 ดูบอลสด66 ดูบอล99  ดูบอลสด7m ดูบอล88",
+  "keywords": [
+    "ดูบอลสด",
+    "ดูบอลวันนี้",
+    "ดูบอลสดคืนนี้",
+    "ดูบอลสด66"
+  ],
+  "activationCommands": {
+    "atom-workspace": "ggg"
+  },
+  "repository": "https://github.com/nikini01/ggg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {}
+}
